@@ -2,17 +2,17 @@
     "author": "rebeccaplease@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "project",
+    "name": "organizer",
     "pebble": {
-        "displayName": "Project",
+        "displayName": "PebbleOrganizer",
         "enableMultiJS": true,
         "messageKeys": {
             "MESSAGE_KEY_Event1": 1,
-            "MESSAGE_KEY_Task1": 1,
-            "OBJ_KEY_EndTime": 4,
-            "OBJ_KEY_Materials": 5,
-            "OBJ_KEY_StartTime": 3,
-            "OBJ_KEY_Title": 2
+            "MESSAGE_KEY_Task1": 2,
+            "OBJ_KEY_EndTime": 5,
+            "OBJ_KEY_Materials": 6,
+            "OBJ_KEY_StartTime": 4,
+            "OBJ_KEY_Title": 3
         },
         "projectType": "native",
         "resources": {
